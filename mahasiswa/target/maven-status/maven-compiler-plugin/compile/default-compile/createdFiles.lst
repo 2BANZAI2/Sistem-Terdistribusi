@@ -1,0 +1,5 @@
+com\bima\mahasiswa\service\MahasiswaService.class
+com\bima\mahasiswa\entity\Mahasiswa.class
+com\bima\mahasiswa\MahasiswaServiceApplication.class
+com\bima\mahasiswa\entity\repository\MahasiswaRepository.class
+com\bima\mahasiswa\controller\MahasiswaController.class
