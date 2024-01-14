@@ -1,0 +1,8 @@
+com\bima\nilai\service\NilaiService.class
+com\bima\nilai\entity\Nilai.class
+com\bima\nilai\repository\NilaiRepository.class
+com\bima\nilai\vo\ResponseTemplate.class
+com\bima\nilai\vo\Matakuliah.class
+com\bima\nilai\NilaiApplication.class
+com\bima\nilai\vo\Mahasiswa.class
+com\bima\nilai\controller\NilaiController.class
